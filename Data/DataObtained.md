@@ -1,0 +1,1 @@
+Some raw data can be obtained from [https://data.ln.gov.cn/oportal/catalog/](https://data.ln.gov.cn/oportal/catalog/) and [https://www.ncei.noaa.gov/data/global-summary-of-the-day/](https://www.ncei.noaa.gov/data/global-summary-of-the-day/).
